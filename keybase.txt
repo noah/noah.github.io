@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/nt
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tilton.co
+  * I am nt (https://keybase.io/nt) on keybase.
+  * I have a public key with fingerprint 8A7B BF7B B3A9 49A8 53B6  68B0 C3D7 A4A5 2266 0FC3
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0111f9306f361246d054dafa90a4b3c76bd0ea2d82124e2b349cc71657bfabda245c0a",
+      "fingerprint": "8a7bbf7bb3a949a853b668b0c3d7a4a522660fc3",
+      "host": "keybase.io",
+      "key_id": "c3d7a4a522660fc3",
+      "kid": "0111f9306f361246d054dafa90a4b3c76bd0ea2d82124e2b349cc71657bfabda245c0a",
+      "uid": "e6df3b26dd2c2458cabec3c2edba8600",
+      "username": "nt"
+    },
+    "merkle_root": {
+      "ctime": 1524515573,
+      "hash_meta": "ae3b22aa61962070d20d699ae659bda69a8d02dbf97836a56906c7624c1fedaa",
+      "seqno": 2431762
+    },
+    "revoke": {
+      "sig_ids": [
+        "14b17d933a6d3f0f1a123f8aa794e2e066ad2254a63141223c8b7a7d238091630f"
+      ]
+    },
+    "service": {
+      "hostname": "tilton.co",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1524515573,
+  "expire_in": 157680000,
+  "prev": "34b8acb3723014e19e534a6e5128efbca71992b050773aba9fb50f2776b4a432",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtU79rFEEUXmMsDAQNiJ2C2wkhzO/ZObCysrEwREUJx5tfd8vd7Z67m9NwpI6K
+RfwL0hhQRBAESxVS2hgs7OwtDYjY+fZIsEnpwDLse9/73ve+mdlZPJ3MLe1/e7GX
+xnP7pz7/sMm979eTaWpLv5l2pukgzLYw9KFuuoPcp52UUEqj4URFrigTyhMpPEQw
+BITlTivrSQDmM4bZwCwXxjlNldQ2gvXAhHQE0uU05kUvVOMqLxqkzUBbG/HjYISB
+THKrVGaJ416DAMmYUiQ6joX9sm4rUJyFOqzkJcbwpzuTdwL+P+vemNEF5SO3THnP
+HKYyBzY47ljwFjJFSAusQ1XAKCAaR9xaTkehGgxDtyrLprXVNXmbpBLrqZSa42hQ
+97uj0ADWQEB+BqCoUYxo4hnxyhgIShrUo9AkT5i30eiMK5DKEIVjMOFoDB5aqXV4
+UJRphwlOMYEKqjApB6FtXuc9NKxOO/dTKizV3nAOn0bK80giBcp4zAC0QSsCUQo8
+Y1KA4lRQxrjLrAbtGc+IoYqTmK5vte2qSe5m9O0ZHc3e5MOmLFZce0zjqmxKVw4x
+3G+acd1pbWk2xy3uYbDdI4auzQuP1wMrJqGq87JAmxB5gmPh0TivQjdvEVKrjOBq
++4QJUnJhM3CWa8YJFYGaIDkOESRlWYjWgabGMEsk0ZqDBROtJJFpvAwCBGf/LBQo
+E3pIib4V0GxUId1aeLw+nyzNJZcuXpl/Ov04fffqxsvV9/23xw/qzFz7mpKFs+eP
+I8/Xkl334c6FPw/imy/69dcn27/uHlxdPEx27c/tvd7vvWu3Fqe3Vw+e3VzbObz8
+Fw==
+=DZ0x
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nt
+
+==================================================================
+
